@@ -3,7 +3,7 @@
 </div>
 
 ## 👋 About Me
-안녕하세요! 백엔드 개발자를 꿈꾸는 주니어 개발자입니다.
+안녕하세요! Java/Spring 기반의 백엔드 개발자를 꿈꾸는 주니어 개발자입니다.
 AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활용한 혁신적인 서비스 개발에 열정을 가지고 있습니다.
 백엔드 기술과 AI를 접목시켜 새로운 가치를 창출하는 것이 제 목표입니다.
 
@@ -46,6 +46,13 @@ AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=summit1123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit1123&layout=compact&theme=radical" />
+</div>
+
 ## 🌱 Currently Learning
 - Java/Spring 백엔드 개발 심화학습
 - LangChain을 활용한 AI 애플리케이션 개발
