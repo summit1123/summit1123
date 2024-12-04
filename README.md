@@ -20,8 +20,8 @@ Java/Spring 기반의 백엔드 개발과 AI/NLP 분야에 관심이 많습니�
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=summit1123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit1123&layout=compact&theme=radical" />
 </div>
 
 ## 🌱 Currently Learning
