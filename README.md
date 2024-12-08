@@ -53,12 +53,19 @@ My goal is to create new value by combining back-end technology and AI.
 - Java/Spring 백엔드 개발 심화학습
 - LangChain을 활용한 AI 애플리케이션 개발
 - Docker와 AWS를 활용한 서비스 배포 및 운영
+  
+- In-depth learning on Java/Spring backend development
+- AI application development using LangChain
+- Service deployment and operation using Docker and AWS
 
 ## 💡 Interests
 - 백엔드 시스템 설계 및 개발
 - LLM과 자연어 처리 기술을 활용한 서비스 개발
 - AI 기술을 접목한 백엔드 서비스 구현
 
+- Backend system design and development
+- Service development using LLM and natural language processing technology
+- Implementation of backend service incorporating AI technology
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
