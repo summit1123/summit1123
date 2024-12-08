@@ -60,7 +60,7 @@ My goal is to create new value by combining back-end technology and AI.
 
 ## 💡 Interests
 - 백엔드 시스템 설계 및 개발
-- LLM과 자연어 처리 기술을 활용한 서비스 개발
+- LLM과 자연어 처리 기술을 활용한 서비스 구현
 - AI 기술을 접목한 백엔드 서비스 구현
 
 - Backend system design and development
