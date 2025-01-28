@@ -6,8 +6,8 @@
 
 ## 👋 About Me
 안녕하세요! 백엔드 개발자를 꿈꾸는 주니어 개발자입니다
-AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활용한 혁신적인 서비스 개발에 열정을 가지고 있습니다!
-백엔드 기술과 AI를 접목시켜 새로운 가치를 창출하는 것이 제 목표입니다!
+AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활용한 혁신적인 서비스 개발에 열정을 가지고 있습니다
+백엔드 기술과 AI를 접목시켜 새로운 가치를 창출하는 것이 제 목표입니다
 
 hello! I am a junior developer who dreams of becoming a backend developer.
 I have a deep interest in AI and natural language processing, and am especially passionate about developing innovative services using AI
