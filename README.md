@@ -45,8 +45,8 @@ My goal is to create new value by combining back-end technology and AI
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=summit1123&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit1123&layout=compact&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api?username=summit1123&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit1123&layout=compact&theme=radical&cache_seconds=1800&count_private=true&include_forks=true" />
 </div>
 
 ## 🌱 Currently Learning
