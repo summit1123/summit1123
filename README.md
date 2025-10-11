@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50" />
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummit1123%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
-
 ## 👋 About Me
 안녕하세요! 백엔드 개발자를 꿈꾸는 주니어 개발자입니다!
 AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활용한 혁신적인 서비스 개발에 열정을 가지고 있습니다
