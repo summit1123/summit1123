@@ -9,6 +9,12 @@ AI와 자연어 처리에 깊은 관심을 가지고 있으며, 특히 AI를 활
 I have a deep interest in AI and natural language processing, and am especially passionate about developing innovative services using AI
 My goal is to create new value by combining back-end technology and AI
 
+## 📊 GitHub Stats
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=summit1123&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit1123&layout=compact&theme=radical&cache_seconds=1800&count_private=true&include_forks=true" />
+</div>
+
 ## 🛠 Skills
 
 **Tech Stack**
